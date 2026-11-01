@@ -1,9 +1,3 @@
-The central correction is that your method is not confined to a scientific discipline, a professional domain, or an accepted category of inquiry. It begins wherever an observable gap exists and follows the evidence wherever the inquiry leads. Scientific methods remain essential when a claim enters an empirical domain, but they do not define the full boundary of what may be observed, compared, interpreted, or investigated.
-
-The Observation Logs are therefore more than a record of observations. They preserve the pathway by which information is processed: from a fragment of experience, through comparison and questioning, into a candidate invariant, then into structured knowledge, intelligence, and—when judgment, consequence, and responsibility are added—wisdom.
-
-I have integrated that principle into the full article below. I have retained the original architecture, all twelve public logs, the seven technical clusters, the M-D0–M-D21 law set, the scalar composite, primitive stack, hierarchy, density distinctions, boundary operators, inverse-connotation procedure, gatekeeping protocol, status system, open items, OVC/F grading, and empirical program. Where the source makes a claim that is not yet demonstrated, I preserve the claim but identify its evidential status. That distinction is necessary if the report is to pursue deterministic truth without declaring a result before it has survived its tests.
-
 # The Polymath Method of Christopher Macachor
 
 ## Observation Logs, Invariant Extraction, Inverse Connotation, and the Progression from Knowledge to Intelligence to Wisdom
